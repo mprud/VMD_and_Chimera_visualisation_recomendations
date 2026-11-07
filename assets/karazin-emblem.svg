@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Емблема Харківського національного університету імені В. Н. Каразіна">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f2f6b"/>
+      <stop offset="100%" stop-color="#102d69"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f5df8a"/>
+      <stop offset="50%" stop-color="#e9ca5a"/>
+      <stop offset="100%" stop-color="#d4af37"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="800" height="800" fill="url(#bg)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="25" y="25" width="750" height="750" rx="26" fill="none" stroke="url(#gold)" stroke-width="10"/>
+  </g>
+
+  <g fill="none" stroke="url(#gold)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M115 250 C 160 190, 210 160, 260 150 C 220 205, 210 245, 200 290 C 170 280, 140 267, 115 250 Z"/>
+    <path d="M165 160 C 210 120, 260 115, 315 130 C 280 175, 260 215, 240 250 C 210 220, 182 194, 165 160 Z"/>
+    <path d="M335 130 C 380 110, 430 105, 490 120 C 455 168, 440 215, 427 265 C 395 240, 367 200, 335 130 Z"/>
+    <path d="M470 150 C 520 175, 560 225, 585 275 C 550 280, 515 294, 480 320 C 490 270, 490 210, 470 150 Z"/>
+    <path d="M660 250 C 628 270, 602 295, 585 328 C 548 322, 512 332, 482 350 C 516 238, 580 190, 660 250 Z"/>
+    <path d="M112 470 C 170 510, 205 540, 217 610 C 168 595, 128 575, 96 542 C 94 512, 100 488, 112 470 Z"/>
+    <path d="M176 640 C 218 590, 272 560, 335 548 C 298 600, 275 642, 250 675 C 213 668, 193 659, 176 640 Z"/>
+    <path d="M458 645 C 500 605, 555 585, 623 590 C 610 634, 585 665, 540 690 C 512 682, 478 666, 458 645 Z"/>
+    <path d="M690 470 C 668 521, 642 560, 590 596 C 612 538, 614 498, 620 454 C 646 454, 673 460, 690 470 Z"/>
+  </g>
+
+  <g fill="url(#gold)" stroke="#d7b54f" stroke-width="2" font-family="Georgia, 'Times New Roman', serif">
+    <text x="400" y="170" font-size="52" text-anchor="middle" letter-spacing="2">1804</text>
+  </g>
+
+  <g>
+    <path d="M400 280 L 520 480 L 470 480 L 435 425 L 365 425 L 330 480 L 280 480 Z" fill="rgba(247,228,157,0.85)" stroke="url(#gold)" stroke-width="8"/>
+    <path d="M400 310 L 490 455 L 451 455 L 421 410 L 379 410 L 349 455 L 310 455 Z" fill="#f5e7a6" stroke="url(#gold)" stroke-width="6"/>
+    <path d="M400 180 L 470 300 L 470 500 L 330 500 L 330 300 Z" fill="none" stroke="url(#gold)" stroke-width="8"/>
+    <path d="M400 190 L 458 295 L 458 500 L 342 500 L 342 295 Z" fill="none" stroke="url(#gold)" stroke-width="7"/>
+    <path d="M400 175 L 470 300 L 470 500 L 400 500 L 330 500 L 330 300 Z" fill="none" stroke="url(#gold)" stroke-width="5" opacity="0.4"/>
+  </g>
+
+  <g fill="url(#gold)" stroke="#d7b54f" stroke-width="2" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">
+    <text x="400" y="440" font-size="230" text-anchor="middle">у</text>
+  </g>
+
+  <g fill="url(#gold)" stroke="#d7b54f" stroke-width="2.5" font-family="Georgia, 'Times New Roman', serif">
+    <path d="M260 565 C 210 575, 180 594, 160 622 C 218 625, 245 626, 280 642 C 268 610, 262 586, 260 565 Z"/>
+    <path d="M540 565 C 590 575, 620 594, 640 622 C 582 625, 555 626, 520 642 C 532 610, 538 586, 540 565 Z"/>
+    <text x="400" y="612" font-size="36" text-anchor="middle" letter-spacing="2">COGNOSCERE</text>
+    <path d="M140 635 C 170 610, 220 602, 260 610 C 242 640, 210 670, 160 684 C 150 668, 145 650, 140 635 Z"/>
+    <path d="M660 635 C 630 610, 580 602, 540 610 C 558 640, 590 670, 640 684 C 650 668, 655 650, 660 635 Z"/>
+    <text x="400" y="654" font-size="38" text-anchor="middle" letter-spacing="2">ERUDIRE</text>
+    <text x="400" y="706" font-size="36" text-anchor="middle" letter-spacing="2">DOCERE</text>
+  </g>
+
+  <g fill="url(#gold)" stroke="#d7b54f" stroke-width="2" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18">
+    <path d="M120 616 C 170 650, 160 688, 122 710 C 108 696, 100 680, 98 660 C 104 644, 110 630, 120 616 Z"/>
+    <path d="M680 616 C 630 650, 640 688, 678 710 C 692 696, 700 680, 702 660 C 696 644, 690 630, 680 616 Z"/>
+  </g>
+</svg>
