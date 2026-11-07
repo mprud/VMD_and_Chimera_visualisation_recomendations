@@ -2,7 +2,7 @@
   <img src="./assets/karazin.jpg" alt="Karazin University emblem" width="420">
 </p>
 
-<h1 align="center">Візуалізація молекулярних структур у VMD та Chimera</h1>
+<h1 align="center">ОСНОВИ ВІЗУАЛІЗАЦІЇ МОЛЕКУЛЯРНИХ СИСТЕМ: від простої молекули до молекулярної динаміки</h1>
 
 <p align="center">
   Навчальний посібник і матеріали до лабораторних робіт
