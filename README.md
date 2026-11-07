@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/karazin-emblem.svg" alt="Karazin University emblem" width="240">
+  <img src="./assets/karazin.jpg" alt="Karazin University emblem" width="420">
 </p>
 
 <h1 align="center">Візуалізація молекулярних структур у VMD та Chimera</h1>
