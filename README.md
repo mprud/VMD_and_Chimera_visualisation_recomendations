@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Etalon-big.jpg" alt="Емблема Харківського національного університету імені В. Н. Каразіна" width="180">
+  <img src="./assets/karazin-emblem.svg" alt="Емблема Харківського національного університету імені В. Н. Каразіна" width="360">
 </p>
 
 <h1 align="center">Візуалізація молекулярних структур у VMD та Chimera</h1>
